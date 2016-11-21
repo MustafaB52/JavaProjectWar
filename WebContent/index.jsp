@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Mustafa's Project</title>
 </head>
 <body>
-<h1> This is my JSP page </h1>
+<h1> This page is for testing purpose </h1>
 <hr/>
 <form action="MyServlet">
 <input type="submit" value="Send">
